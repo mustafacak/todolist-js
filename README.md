@@ -1,2 +1,2 @@
-# todolist-js
-Javascript To-Do List Uygulaması
+# ToDo List App
+Javascript To-Do List Application
